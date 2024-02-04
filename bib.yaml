@@ -11,3 +11,23 @@ netwok2020:
     title: Armenian Journal of Proceedings
     volume: 61
     publisher: Automatic Publishing Inc.
+
+openlogic:
+  type: Book
+  title: Open Logic Text
+  author:
+    - Open Logic Project
+  url: https://builds.openlogicproject.org/open-logic-complete.pdf
+
+kikuchi2016:
+  type: Book
+  title: 数学における証明と真理 ─ 様相論理と数学磯論
+  author:
+    - 菊池, 誠
+    - 佐野, 勝彦
+    - 倉橋, 太志
+    - 薄葉, 季路
+    - 黒川, 英徳
+  date: 2016
+  publisher: 共立出版
+  isbn: "9784320111486"
