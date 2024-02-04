@@ -1,0 +1,13 @@
+netwok2020:
+  type: Article
+  title: "At-scale impact of the Net Wok: A culinarically holistic investigation of distributed dumplings"
+  author:
+    - Astley, Rick
+    - Morris, Linda
+  date: 2020
+  page-range: 192-219
+  parent:
+    type: Periodical
+    title: Armenian Journal of Proceedings
+    volume: 61
+    publisher: Automatic Publishing Inc.
